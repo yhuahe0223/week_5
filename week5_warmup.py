@@ -82,3 +82,5 @@ moonlight = False
 # a. Calculate the number of characters (including spaces and punctuation) in the word/phrase: "Supercalifragilisticexpialidocious".
 super = "Supercalifragilisticexpialidocious"
 print(len(super))
+
+##BY: YAO and emily
